@@ -24,5 +24,5 @@
 ![RAM](https://img.shields.io/badge/RAM-8GB-555555?style=for-the-badge)
 ![SSD](https://img.shields.io/badge/Storage-512GB%20SSD-555555?style=for-the-badge)
 
-![Jaswant2007's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Jaswant2007&theme=dark) ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Jaswant2007&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jas22wanty?theme=dark&font=Roboto&ext=contest)
 
