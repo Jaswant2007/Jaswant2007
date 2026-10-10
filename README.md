@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Jaswant Yuvarajan
 
-### Full Stack Developer | Problem Solver
+### Developer | Problem Solver
 ![Header](./banner-2-terminal.png)
 
 
