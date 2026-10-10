@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Jaswant Yuvarajan
 
 ### Full Stack Developer | Problem Solver
-![Header](./github-header-banner.png)
+![Header](./banner-2-terminal.png)
 
 
 - 🔭 Here's my [Portfolio](https://jaszportfolio.vercel.app/)                                                 
